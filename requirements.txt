@@ -24,4 +24,11 @@ huggingface-hub
 # Environement Variable Management
 python-dotenv
 
+langchain
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+python-dotenv
 
